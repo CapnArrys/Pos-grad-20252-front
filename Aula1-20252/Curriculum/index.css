@@ -1,0 +1,17 @@
+.section {
+    background-color: rgb(17, 11, 71);
+}
+
+.links { 
+    font-size: 1.4rem;
+    display: flex;
+    text-decoration: none;
+    color: #2ec7b3d7;
+    transition: transform 0.3s ease;
+}
+
+.links:hover {
+    color: #09f3d4;
+    transform: translateY(-10px);
+    
+}
