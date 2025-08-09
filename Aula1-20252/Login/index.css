@@ -49,7 +49,7 @@ a{
   text-decoration: none;
 }
 
-.contentfield a:hover {
+a:hover {
     color: #09f3d4;
 }
 
